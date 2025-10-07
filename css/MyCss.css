@@ -36,3 +36,12 @@ li {
   text-shadow: 2px 2px 1px #3b6a5e;
   border-top: 1px solid #7ee0c9;
   border-bottom: 1px solid #3b6a5e; }
+
+  .candy
+  {
+    background-color: rgb(115, 75, 146);
+    color: #fff;
+    text-shadow: 2px 2px 1px #3b6a5e;
+    border-top: 1px solid #7ee0c9;
+    border-bottom: 1px solid #3b6a5e;
+  }

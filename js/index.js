@@ -27,3 +27,11 @@ function appendToList(listId,liElement)
 }
 
 appendToList("list",el)
+
+function ChangeClassAttribute(eleemetId,newclass)
+{
+    let element =document.getElementById(eleemetId)
+    element.setAttribute("class",newclass)
+}
+
+ChangeClassAttribute("Seven","candy")
